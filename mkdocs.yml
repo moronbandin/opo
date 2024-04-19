@@ -1,0 +1,87 @@
+
+site_name: MkDocs
+site_description: Temas
+site_author: Eu
+theme:
+  language: gl
+  name: 'material'
+  palette:
+    primary: 'blue grey'
+    accent: 'yellow'
+  font:
+    text: Roboto
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/moronbandin
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/moronbandin
+
+nav:
+  - 1. O Grego no contexto das linguas indoeuropeas: '1_Lingua/index.md'
+  - 2. O sistema vocálico grego: '2_Lingua/index.md'
+  - 3. O sistema consonántico grego: '3_Lingua/index.md'
+  - 4. Métrica: '4_Lingua/index.md'
+  - 5. Composición e derivación: '5_Lingua/index.md'
+  - 6. Flexión nominal: '6_Lingua/index.md'
+  - 7. Flexión temática: '7_Lingua/index.md'
+  - 8. Flexión dos temas en oclusiva, líquida e nasal: '8_Lingua/index.md'
+  - 9. Flexión dos temas en silbante, semivocal e ditongo: '9_Lingua/index.md'
+  - 10. Influencia da lingua grega na evolución da lingua latina: '10_Lingua/index.md'
+  - 11. Nocións xerais sobre o adxectivo: '11_Lingua/index.md'
+  - 12. Características da flexión pronominal: '12_Lingua/index.md'
+  - 13. Morfosintaxe dos pronomes: '13_Lingua/index.md'
+  - 14. Morfosintaxe de adverbios: '14_Lingua/index.md'
+  - "15. A sintaxe: concepto": '15_Lingua/index.md'
+  - "16. Acusativo": '16_Lingua/index.md'
+  - 17. Xenitivo e dativo: '17_Lingua/index.md'
+  - 18. Fundamentos indoeuropeos: '18_Lingua/index.md'
+  - 19. Morfosintaxe dos temas de presente e de aoristo: '19_Lingua/index.md'
+  - 20. Morfosintaxe dos temas de futuro e de perfecto: '20_Lingua/index.md'
+  - 21. Morfosintaxe dos modos persoais en grego: '21_Lingua/index.md'
+  - 22. A orde de palabras na frase: '22_Lingua/index.md'
+  - 23. Proposicións substantivas: '23_Lingua/index.md'
+  - 24. Proposicións adverbiais 1: '24_Lingua/index.md'
+  - 25. Proposicións adverbiais 2: '25_Lingua/index.md'
+  - 26. Orixe da poesía épica. Homero: '26_Literatura/index.md'
+  - 27. Poesía didáctica no mundo grego. Hesíodo: '27_Literatura/index.md'
+  - 28. Orixes da poesía lírica en Grecia: '28_Literatura/index.md'
+  - 29. Lírica monódica e coral: '29_Literatura/index.md'
+  - 30. Orixe e evolución da poesía dramática: '30_Literatura/index.md'
+  - 31. Esquilo e Sófocles: '31_Literatura/index.md'
+  - 32. Eurípides: '32_Literatura/index.md'
+  - 33. Aristófanes e Menandro: '33_Literatura/index.md'
+  - 34. Literatura grega helenística: '34_Literatura/index.md'
+  - 35. A historiografía grega: '35_Literatura/index.md'
+  - 36. Tucídides e Xenofonte: '36_Literatura/index.md'
+  - 37. A historiografía grecolatina posterior a Xenofonte: '37_Literatura/index.md'
+  - 38. A novela e a fábula: '38_Literatura/index.md'
+  - 39. Oratoria: '39_Literatura/index.md'
+  - 40. Oratoria xudicial e oratoria política: '40_Literatura/index.md'
+  - 41. Orixes da filosofía grega: '41_Filosofía/index.md'
+  - 42. As teorías filosóficas dos Sofistas, Sócrates e Platón: '42_Filosofía/index.md'
+  - 43. Aristóteles: '43_Filosofía/index.md'
+  - 44. Principais autores da literatura cristiá: '44_Relixión,_ciencia_e_vida_cotiá/index.md'
+  - 45. Ciencia e técnica: '45_Relixión,_ciencia_e_vida_cotiá/index.md'
+  - 46. Trazos xerais da relixión grega: '46_Relixión,_ciencia_e_vida_cotiá/index.md'
+  - 47. Cosmogonía, teogonía e antropogonía: '47_Relixión,_ciencia_e_vida_cotiá/index.md'
+  - 48. Festas e xogos: '48_Relixión,_ciencia_e_vida_cotiá/index.md'
+  - 49. Tempo, pesos, medidas, moedas: '49_Relixión,_ciencia_e_vida_cotiá/index.md'
+  - 50. Os mitos: '50_Relixión,_ciencia_e_vida_cotiá/index.md'
+  - 51. Xeografía: '51_Historia_e_cultura/index.md'
+  - 52. Grecia desde a chegada dos indoeuropeos ata o século XII a.C.: '52_Historia_e_cultura/index.md'
+  - 53. Evolución de Grecia XII-VIII a.C: '53_Historia_e_cultura/index.md'
+  - 54. Evolución de Grecia VIII-V a.C.: '54_Historia_e_cultura/index.md'
+  - 55. Grecia e Persia: '55_Historia_e_cultura/index.md'
+  - 56. Atenas e Esparta no s. V a.C.: '56_Historia_e_cultura/index.md'
+  - 57. O século IV a.C.: '57_Historia_e_cultura/index.md'
+  - 58. Panhelenismo e Alexandre Magno: '58_Historia_e_cultura/index.md'
+  - 59. Gregos e romanos en Hispania: '59_Historia_e_cultura/index.md'
+  - 60. Organización político-social de Atenas e de Esparta: '60_Historia_e_cultura/index.md'
+  - 61. Institucións xurídicas: '61_Historia_e_cultura/index.md'
+  - 62. A vida privada: '62_Historia_e_cultura/index.md'
+  - 63. A situación da muller: '63_Historia_e_cultura/index.md'
+  - 64. Arquitectura: '64_Historia_e_cultura/index.md'
+  - 65. Urbanismo: '65_Historia_e_cultura/index.md'
+  - 66. Escultura. Pintura. Cerámica. Mosaico: '66_Historia_e_cultura/index.md'
+  - 67. Arqueoloxía, epigrafía, paleografía, numismática, codicoloxía: '67_Historia_e_cultura/index.md'
+  - 68. Pervivencia: '68_Historia_e_cultura/index.md'
